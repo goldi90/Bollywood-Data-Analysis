@@ -7,5 +7,5 @@ Data set Files<br>
 1) BollywoodDirectorRanking.csv
 2) BollywoodActorRanking.csv
 
-AnaLysis File:
+Analysis File:
 <br> Master.xlsm (Include Macros)
