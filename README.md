@@ -8,5 +8,5 @@ Data set Files:<br>
 2) BollywoodActorRanking.csv
 
 Analysis File:
-<br> Master.xlsm (Include Macros) Thi sInclude Only Th analysis Of Director Rating analysis
+<br> Master.xlsm (Include Macros) This file include only the analysis Of Director Rating  dataset
 
